@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_button_on">Sound an</string>
+    <string name="sound_button_off">Sound aus</string>
+    <string name="sound">Sound</string>
+</resources>
